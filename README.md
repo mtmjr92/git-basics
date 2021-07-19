@@ -31,22 +31,22 @@ git diff
 git diff --cached
 git diff --staged
 
-## History
+## HISTORY
 
 git log
 git log --oneline
 
-## Changes
+## CHANGES
 
 git checkout "namefile"
 git reset 
 git reset --hard (delete all files)
 
-## Changes untracked
+## CHANGES UNTRACKED
 
 git clean -f 
 
-## Clones
+## CLONES
 
 git clone http://git..
 git clone source/ another-folder/
