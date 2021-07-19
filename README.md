@@ -46,7 +46,7 @@ git reset --hard (delete all files)
 
 git clean -f 
 
-# Clones
+## Clones
 
 git clone http://git..
 git clone source/ another-folder/
