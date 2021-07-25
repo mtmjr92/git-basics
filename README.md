@@ -5,6 +5,8 @@ git config --global user.email "user@email.com.br"
 
 git config --list
 
+git config --global --list
+
 ## START
 
 git init
@@ -86,3 +88,7 @@ git push --delete origin develop (remote)
 git branch -m develop1 (rename)
 
 git branch -m develop develop1 (rename not checked)
+
+## 
+
+git mergetool 
