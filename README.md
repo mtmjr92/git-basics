@@ -58,3 +58,31 @@ git clean -f
 git clone http://git..
 
 git clone source/ another-folder/
+
+## GITHUB
+
+git pull
+
+git push
+
+## BRANCH
+
+git branch
+
+git branch develop (create)
+
+git checkout develop
+
+git checkout -b TASK-1 (create)
+
+git push --set-upstream origin develop
+
+git push -u origin develop (shortcut up)
+
+git branch -d develop (delete local)
+
+git push --delete origin develop (remote) 
+
+git branch -m develop1 (rename)
+
+git branch -m develop develop1 (rename not checked)
