@@ -123,3 +123,28 @@ git fetch (after)
 
 git merge
 
+## REBASE ()
+
+## ALIAS ()
+
+git config --global alias.s status
+
+git config --global --unset alias.s
+
+## REMOTE ()
+
+git remote -v
+
+## GREP
+
+git branch | grep R2
+
+git tag | grep 1
+
+## SOURCETREE
+
+https://www.sourcetreeapp.com/
+
+## GITKRAKEN
+
+https://www.gitkraken.com/
