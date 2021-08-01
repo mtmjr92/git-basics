@@ -1,6 +1,7 @@
 ## INITIAL CONFIGS
 
 git config --global user.name "User"
+
 git config --global user.email "user@email.com.br"
 
 git config --list
