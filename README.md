@@ -114,3 +114,12 @@ git reset --hard HEAD~1 (come back 1 commit)
 ## CHANGES IN COMMIT
 
 git commit --amend
+
+## FETCH (similar git pull but dont merge)
+
+git pull (git fetch + git merge)
+
+git fetch (after)
+
+git merge
+
