@@ -106,3 +106,11 @@ git stash apply (get first stack)
 git stash pop
 
 git stash drop stash@[position]
+
+## REVERT COMMIT (local)
+
+git reset --hard HEAD~1 (come back 1 commit)
+
+## CHANGES IN COMMIT
+
+git commit --amend
