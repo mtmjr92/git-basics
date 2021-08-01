@@ -92,3 +92,17 @@ git branch -m develop develop1 (rename not checked)
 ## 
 
 git mergetool 
+
+## STASH (MEMORY)
+
+git stash
+
+git stash list
+
+git stash save "stash test"
+
+git stash apply (get first stack)
+
+git stash pop
+
+git stash drop stash@[position]
