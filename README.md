@@ -151,23 +151,3 @@ https://www.sourcetreeapp.com/
 ## GITKRAKEN
 
 https://www.gitkraken.com/
-
-## CREATE A PROJECT GIT INITIAL
-
-git init
-
-git add .
-
-git commit -m "My First Commmit"
-
-git remote add origin <remote repository URL past here from the github repository> then type git remote -v
-
-git push -f origin master
-
-git checkout main
-  
-git merge master
-  
-git pull origin main
-  
-git push -f origin main
