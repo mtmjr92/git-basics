@@ -160,6 +160,6 @@ https://www.sourcetreeapp.com/
 
 https://www.gitkraken.com/
 
-# REMOVE CHANGES (force untracked file deletion,  remove untracked directories)
+## REMOVE CHANGES (force untracked file deletion,  remove untracked directories)
 
 git clean -f -d
