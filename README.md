@@ -112,6 +112,14 @@ git stash drop stash@[position]
 
 git reset --hard HEAD~1 (come back 1 commit)
 
+git reset --soft HEAD~1 (come back 1 commit, go stage)
+
+## REVERT COMMIT (remote)
+
+git reset --hard HEAD^ 
+
+git push -f 
+
 ## CHANGES IN COMMIT
 
 git commit --amend
