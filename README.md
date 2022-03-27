@@ -159,3 +159,7 @@ https://www.sourcetreeapp.com/
 ## GITKRAKEN
 
 https://www.gitkraken.com/
+
+# REMOVE CHANGES (force untracked file deletion,  remove untracked directories)
+
+git clean -f -d
