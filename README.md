@@ -163,3 +163,11 @@ https://www.gitkraken.com/
 ## REMOVE CHANGES (force untracked file deletion,  remove untracked directories)
 
 git clean -f -d
+
+## STORE
+
+git config --global credential.helper cache
+
+- .git-credentials --> https://user:pass-or-token@github.com
+
+
