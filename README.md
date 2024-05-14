@@ -110,9 +110,9 @@ git stash drop stash@[position]
 
 ## REVERT COMMIT (local)
 
-git reset --hard HEAD~1 (come back 1 commit)
+git reset --hard HEAD~1 (come back 1 commit) Delete the most recent commit and remove changes:
 
-git reset --soft HEAD~1 (come back 1 commit, go stage)
+git reset --soft HEAD~1 (come back 1 commit, go stage) Delete the most recent commit, without destroying the work you've done:
 
 ## REVERT COMMIT (remote)
 
